@@ -3,7 +3,7 @@ pymupdf
 sentence-transformers
 chromadb
 mistralai
-langchain
-langchain-community
-langchain-mistralai
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-mistralai==0.2.10
 python-dotenv

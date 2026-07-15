@@ -2,9 +2,11 @@ pymupdf
 sentence-transformers
 chromadb
 mistralai
-langchain
-langchain-community
-langchain-mistralai
-ragas
+# pinned: latest ragas (0.4.x) imports langchain_community.chat_models.vertexai,
+# which langchain-community has since removed — this combo is verified working
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-mistralai==0.2.10
+ragas==0.2.15
 python-dotenv
 notebook
