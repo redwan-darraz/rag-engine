@@ -1,0 +1,7 @@
+pymupdf
+sentence-transformers
+chromadb
+mistralai
+nltk
+python-dotenv
+notebook

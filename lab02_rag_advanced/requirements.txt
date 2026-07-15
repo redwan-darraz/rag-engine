@@ -1,0 +1,10 @@
+pymupdf
+sentence-transformers
+chromadb
+mistralai
+langchain
+langchain-community
+langchain-mistralai
+ragas
+python-dotenv
+notebook
